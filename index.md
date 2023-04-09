@@ -20,11 +20,12 @@ Task lists -->
 > This text is quoted
 
 ```
-block of code 
-across multiple lines
+int main(){
+    printf("Hello World!\n");
+}
 ```
 
-[Carb Studios](https://carbstudios.com/) is currently one of my favorite brands 
+[This is an external link to Carb Studios](https://carbstudios.com/); it's  currently one of my favorite brands 
 
 Here's a list of items I want from them:
 
@@ -32,14 +33,9 @@ Here's a list of items I want from them:
 * Sunset Oversized Blazer 
 * Fairfax Vegan Blouson
 
+[This is a section link back to "Welcome!"](#Welcome!)
 
-Still need to do section links 
-
-
-[This is the README.md file](#leontan/CSE-110-L1/README.md)
-
-[This is a relative link](../Beagle.jpg)
-
+[This is a relative link to the README.md file](#leontan/CSE-110-L1/README.md)
 
 This is an ordered list 
 1. Item 1 
