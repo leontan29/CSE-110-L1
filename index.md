@@ -20,6 +20,7 @@ Task lists -->
 > This text is quoted
 
 ```
+/* A block of code */
 int main(){
     printf("Hello World!\n");
 }
@@ -33,9 +34,9 @@ Here's a list of items I want from them:
 * Sunset Oversized Blazer 
 * Fairfax Vegan Blouson
 
-[This is a section link back to "Welcome!"](#Welcome!)
+[This is a section link back to "Welcome!"](welcome)
 
-[This is a relative link to the README.md file](#leontan/CSE-110-L1/README.md)
+[This is a relative link to an image file](Beagle.jpg)
 
 This is an ordered list 
 1. Item 1 
